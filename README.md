@@ -9,7 +9,7 @@ Welcome to the Simple Temperature converter program repository! This project was
 
 ## Screenshots
 
-
+![temperature converter](https://github.com/Sachintha-Dinuranga/temperature-converter/assets/117833055/3f411fdd-b16d-4247-809b-e6d5c5b81f0c)
 
 
 ## Technologies Used
